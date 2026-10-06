@@ -1,1 +1,100 @@
+:root {
+  /* Liidese värvid */
+  --micro-bg: #f8fafc;
+  --micro-surface: #ffffff;
+  --micro-text: #1e293b;
+  --micro-muted: #475569;
+  --micro-border: #cbd5e1;
 
+  --micro-primary: #0f766e;
+  --micro-primary-hover: #115e59;
+  --micro-primary-soft: #f0fdfa;
+
+  /* Majandusjoonised */
+  --micro-demand: #2563eb;
+  --micro-supply: #b45309;
+  --micro-equilibrium: #7c3aed;
+  --micro-reference: #64748b;
+
+  /* Tagasiside */
+  --micro-success: #15803d;
+  --micro-warning: #b45309;
+  --micro-error: #b91c1c;
+
+  /* Tüpograafia ja mõõdud */
+  --micro-font: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --micro-radius: 12px;
+  --micro-space-1: 4px;
+  --micro-space-2: 8px;
+  --micro-space-3: 12px;
+  --micro-space-4: 16px;
+  --micro-space-6: 24px;
+  --micro-space-8: 32px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--micro-font);
+  color: var(--micro-text);
+  background: var(--micro-bg);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--micro-font);
+  color: var(--micro-text);
+}
+
+a {
+  color: var(--micro-primary);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.micro-panel {
+  padding: var(--micro-space-6);
+  background: var(--micro-surface);
+  border: 1px solid var(--micro-border);
+  border-radius: var(--micro-radius);
+}
+
+.micro-objectives {
+  padding: var(--micro-space-6);
+  background: var(--micro-primary-soft);
+  border-left: 4px solid var(--micro-primary);
+  border-radius: 8px;
+}
+
+.micro-button {
+  min-height: 44px;
+  padding: 10px 18px;
+  border: 1px solid var(--micro-primary);
+  border-radius: 8px;
+  font: inherit;
+  font-weight: 600;
+  color: white;
+  background: var(--micro-primary);
+  cursor: pointer;
+}
+
+.micro-button:hover {
+  background: var(--micro-primary-hover);
+}
+
+.micro-button--secondary {
+  color: var(--micro-text);
+  background: var(--micro-surface);
+  border-color: var(--micro-border);
+}
+
+.micro-button--secondary:hover {
+  background: var(--micro-bg);
+}
+
+:where(a, button, input, select, textarea):focus-visible {
+  outline: 3px solid var(--micro-primary);
+  outline-offset: 3px;
+}
+
+.micro-result {
+  font-variant-numeric: tabular-nums;
+}
