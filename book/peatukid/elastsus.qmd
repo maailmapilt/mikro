@@ -1,1 +1,4 @@
+# Elastsus
 
+Elastsus kirjeldab ühe suuruse suhtelist reageerimist
+teise suuruse suhtelisele muutusele.
