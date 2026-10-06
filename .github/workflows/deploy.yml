@@ -27,7 +27,12 @@ jobs:
 
       - name: Paigalda Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
+      
+      - name: Valmista ühine kujundus ette
+        run: |
+          mkdir -p book/assets
+          cp shared/design.css book/assets/design.css
+      
       - name: Ehita HTML-õpik
         run: quarto render book
 
