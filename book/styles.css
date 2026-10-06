@@ -1,1 +1,13 @@
+body {
+  font-size: 18px;
+  line-height: 1.65;
+}
 
+#quarto-sidebar {
+  background: var(--micro-surface);
+}
+
+.sidebar-navigation .sidebar-item a.active {
+  color: var(--micro-primary);
+  font-weight: 600;
+}
