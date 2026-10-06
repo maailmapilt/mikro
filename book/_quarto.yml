@@ -15,4 +15,6 @@ book:
 format:
   html:
     theme: cosmo
+      - assets/design.css
+      - styles.css
     toc: true
