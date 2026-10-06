@@ -9,3 +9,4 @@ labs/dist/
 # Õpikusse kopeeritud laborid ja genereeritud joonised
 book/labs/
 book/assets/figures/
+book/assets/design.css
