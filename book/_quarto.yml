@@ -1,1 +1,17 @@
+project:
+  type: book
+  output-dir: _site
 
+lang: et
+
+book:
+  title: "Mikroökonoomika"
+  author: "Sinu nimi"
+  chapters:
+    - index.qmd
+    - peatukid/noudlus-pakkumine.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
