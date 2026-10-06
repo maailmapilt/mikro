@@ -8,6 +8,6 @@ body {
 }
 
 .sidebar-navigation .sidebar-item a.active {
-  color: var(--micro-primary);
+  color: var(--micro-demand);
   font-weight: 600;
 }
