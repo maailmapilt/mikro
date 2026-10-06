@@ -1,12 +1,14 @@
 # Nõudlus ja pakkumine
 
+::: {.micro-objectives}
 ## Õpieesmärgid
 
 Pärast peatüki läbimist oskad:
 
-- eristada nõudlust ja nõutavat kogust;
-- selgitada pakkumiskõverat;
-- arvutada turutasakaalu.
+- selgitada nõudluse ja pakkumise seost;
+- arvutada turutasakaalu;
+- põhjendada nõudluse nihke mõju.
+:::
 
 ## Nõudlus
 
