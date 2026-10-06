@@ -1,1 +1,49 @@
+# Nõudlus ja pakkumine
 
+## Õpieesmärgid
+
+Pärast peatüki läbimist oskad:
+
+- eristada nõudlust ja nõutavat kogust;
+- selgitada pakkumiskõverat;
+- arvutada turutasakaalu.
+
+## Nõudlus
+
+Nõudlus kirjeldab seost kauba hinna ja koguse vahel,
+mida tarbijad soovivad ning suudavad osta.
+
+Kasutame lihtsat lineaarset mudelit:
+
+$$
+Q_D = 120 - 2P
+$$
+
+Siin on $Q_D$ nõutav kogus ja $P$ hind.
+
+## Pakkumine
+
+Pakkumine kirjeldab seost hinna ja koguse vahel,
+mida tootjad soovivad ning suudavad müüa.
+
+Näites on pakkumisfunktsioon:
+
+$$
+Q_S = 4P
+$$
+
+## Turutasakaal
+
+Tasakaalus on nõutav ja pakutav kogus võrdsed:
+
+$$
+120 - 2P = 4P
+$$
+
+Seega on tasakaaluhind $P^* = 20$
+ja tasakaalukogus $Q^* = 80$.
+
+## Mõtle kaasa
+
+Mis juhtub tasakaaluhinna ja tasakaalukogusega,
+kui nõudlus suureneb, kuid pakkumine jääb samaks?
