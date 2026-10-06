@@ -5,6 +5,8 @@ Tere tulemast mikroökonoomika õpikusse!
 Siin õpid mõistma tarbijate ja ettevõtete otsuseid,
 turgude toimimist ning majanduspoliitika mõju.
 
+Õpikut täiendatakse järk-järgult uute teemade ja laboritega.
+
 ## Kuidas õpikut kasutada?
 
 1. Loe teema selgitust.
