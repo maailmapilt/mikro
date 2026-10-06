@@ -1,1 +1,11 @@
+# Quarto genereeritud failid
+book/_site/
+book/.quarto/
 
+# Reacti sõltuvused ja ehitatud rakendus
+labs/node_modules/
+labs/dist/
+
+# Õpikusse kopeeritud laborid ja genereeritud joonised
+book/labs/
+book/assets/figures/
