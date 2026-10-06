@@ -6,7 +6,7 @@ lang: et
 
 book:
   title: "Mikroökonoomika"
-  author: "Sinu nimi"
+  author: "Maailmapilt"
   chapters:
     - index.qmd
     - peatukid/noudlus-pakkumine.qmd
