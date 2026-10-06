@@ -16,5 +16,5 @@ format:
   html:
     theme: cosmo
       - shared/design.css
-      - styles.css
+
     toc: true
