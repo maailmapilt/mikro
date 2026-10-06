@@ -1,1 +1,21 @@
+# Sissejuhatus {.unnumbered}
 
+Tere tulemast mikroökonoomika õpikusse!
+
+Siin õpid mõistma tarbijate ja ettevõtete otsuseid,
+turgude toimimist ning majanduspoliitika mõju.
+
+## Kuidas õpikut kasutada?
+
+1. Loe teema selgitust.
+2. Ennusta, kuidas majandusolukord muutub.
+3. Kontrolli oma ennustust interaktiivses laboris.
+4. Lahenda peatüki ülesanded.
+
+## Õpieesmärgid
+
+Õpiku läbimise järel oskad:
+
+- selgitada nõudluse ja pakkumise kujunemist;
+- leida turutasakaalu;
+- analüüsida hinnamuutuste ja maksude mõju.
