@@ -14,7 +14,7 @@ book:
     
 format:
   html:
-    theme: sandstone
+    theme: cosmo
       - assets/design.css
       - styles.css
     toc: true
